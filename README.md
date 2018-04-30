@@ -1,1 +1,1 @@
-btc_price_pred
+# A small analysis on the viability of building a bitcoin price predicting model in a few weeks
